@@ -11,7 +11,7 @@ Tic-Tac-Toe Game built using [H2O Wave framework](https://wave.h2o.ai)
 2. pip3
 
 ### 1. Run the Wave Server
-Follow the documentation to [download and run](https://h2oai.github.io/wave/docs/installation) the Wave Server on your local machine.<br>
+Follow the documentation to [download and run](https://wave.h2o.ai/docs/installation) the Wave Server on your local machine.<br>
 For macOS run the following command to download and run H2O Wave server.
 ```shell script
 make wave run-wave
