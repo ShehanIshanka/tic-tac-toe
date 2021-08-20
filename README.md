@@ -2,11 +2,7 @@
 
 Tic-Tac-Toe Game built using [H2O Wave framework](https://wave.h2o.ai)
 
-<img src="./static/play.mov" width="80%" height="80%"/>
-
-<video width="320" height="240" controls>
-  <source src="./static/play.mov" type="video/mp4">
-</video>
+<img src="./static/play.gif" width="80%" height="80%"/>
 
 ## Running this App Locally
 
