@@ -67,7 +67,7 @@ def setup_app(q: Q) -> None:
     logging.info("Setting up the app for a new browser tab.")
 
     # UI Zones
-    q.page['meta'] = ui.meta_card(box='', layouts=[
+    q.page['meta'] = ui.meta_card(title="Tic Tac Toe", box='', layouts=[
         ui.layout(
             breakpoint='xl',
             width='1200px',
